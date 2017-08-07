@@ -1,3 +1,5 @@
+<img src="running-test-on-selenium-grid-in-the-browser.PNG">
+
 Steps to running these tests: 
 
 1) Clone the repo
